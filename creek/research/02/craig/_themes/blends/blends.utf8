@@ -1,0 +1,23 @@
+[info]
+title=Blends
+codepage=65001
+version=2.00
+format=2.00
+readonly=true
+refcount=3
+
+[titles]
+1036=Fusion
+1031=Übergänge
+3082=Mezclas
+1040=Sfumature
+1035=Väriliuku
+1030=Udflydende farver
+1044=Himmel
+1053=Överlappande
+1046=Geométrico
+1043=Mengsels
+2052=渐蓝
+1028=調和
+1041=ブレンド
+1042=여름
