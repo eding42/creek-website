@@ -1,0 +1,4 @@
+DOS=SINGLE
+DOS=HIGH,UMB
+Device=C:\WINDOWS\Himem.Sys
+DeviceHigh=C:\WINDOWS\EMM386.Exe

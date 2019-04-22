@@ -1,0 +1,341 @@
+
+<!-- ---------------------------------------------- -->
+<!--  Site Designed and Developed by VERDUCCI.NET   -->
+<!--   http://verducci.net     info@verducci.net    -->
+<!-- ---------------------------------------------- -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+    <title>Atlas</title>
+    <link href="../style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body topmargin="0" marginheight="0" leftmargin="0" marginwidth="0">
+<a name="top"></a>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td bgcolor="#000066">
+   
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td><img src="/bp/images/ani-brain.gif" width="133" height="100" alt="spinning brain" border="0"><img src="/bp/images/brainplacecom.jpg" width="528" height="100" alt="BrainPlace.com" border="0">;&nbsp;&nbsp;&nbsp;&nbsp;<TD ALIGN="CENTER"><A HREF="http://www.brainplace.com/bp/brochures.asp"><IMG SRC="http://www.brainplace.com/bp/images/bpb.jpg" alt="The Brain SPECT Brochure is now available for download." BORDER="0"><BR>Click here</A></TD></TD>
+            </tr>
+        </table>
+
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td bgcolor="#cccc99" colspan="3">
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                        <td bgcolor="#cccc99" nowrap>&nbsp;&nbsp;&nbsp;<a href="http://www.brainplace.com/bp/brainstore/default.asp" class="headercart">Brain Store</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.brainplace.com/bp/brainstore/cart/viewcart.asp" class="headercart">Your Shopping Cart</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/bp/account/manage.asp" class="headercart">Your Account</a><img src="/images/spacer.gif" width="144" height="1"></td>
+                        <td bgcolor="#cccc99" width="100%"><div align="right" class="headerdate"><b>May 20, 2002</b><img src="/images/spacer.gif" width="10" height="1"></div></td>
+                        <td bgcolor="#cccc99"><img src="/images/spacer.gif" width="50" height="1"></td>
+                    </tr>
+                </table>
+                </td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td bgcolor="#cccc99"><img src="/images/spacer.gif" width="144" height="1"></td>
+                <td width="100%">
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                        <td rowspan="2"><img src="/bp/images/nav_tanbotcorner.gif" width=10 height=11 alt="" border="0"></td>
+                        <td width="100%" bgcolor="#cccc99"><img src="/images/spacer.gif" width="1" height="1"></td>
+                        <td rowspan="2" align="right"><img src="/bp/images/nav_tanbotcorner2.gif" width=10 height=11 alt="" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td><img src="/images/spacer.gif" width="1" height="10"></td>
+                    </tr>
+                </table>
+                </td>
+                <td bgcolor="#cccc99"><img src="/images/spacer.gif" width="50" height="1"></td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td bgcolor="#cccc99" valign="top" width="144">
+                <form>
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                        <td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#cccc99"><div align="center"><b>Search</b></div>
+                        <div align="center"><input type="Text" name="search" size="15"><br>
+                        <img src="/bp/images/nav_tanbot.gif" width=144 height=11 alt="" border="0"></div></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#cccc99">
+                        <table width="100%" cellpadding="3" cellspacing="0" border="0">
+                            <tr>
+                                <td>
+                                <div align="center"><b>Menu</b></div>
+                                <a href="http://www.brainplace.com/bp/atlas/default.asp" class="menu">Main Menu</a><br>
+                                </td>
+                            </tr>
+                        </table>
+                        <img src="/bp/images/nav_tanbot.gif" width=144 height=11 alt="" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#cccc99">
+                        <table width="100%" cellpadding="3" cellspacing="0" border="0">
+                            <tr>
+                                <td>
+                                <div align="center"><b>Brain Atlas</b></div>
+                                <a href="http://www.brainplace.com/bp/atlas/ch1.asp" class="menu">Brain SPECT Imaging: An Introduction</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch2.asp" class="menu">Images, Normal and Abnormal</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch3.asp" class="menu">Images of Functional Neuroanatomy</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch4.asp" class="menu">Images of Strokes</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch5.asp" class="menu">Images of Dementia versus Pseudodementia</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch6.asp" class="menu">Images of Brain Trauma</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch7.asp" class="menu">Images of Depression</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch8.asp" class="menu">Images of Bipolar Disorder and Schizophrenia</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch9.asp" class="menu">Images of the Ring of Fire</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch10.asp" class="menu">Images of PMS</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch11.asp" class="menu">Images of Anxiety</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch12.asp" class="menu">Images of Attention Deficit Disorder</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch13.asp" class="menu">Images of Obsessive Compulsive Spectrum Disorders</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch14.asp" class="menu">Images of Violence</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch15.asp" class="menu">Images of Alcohol and Drug Abuse</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                <a href="http://www.brainplace.com/bp/atlas/ch16.asp" class="menu">Images of Treatment</a><br>
+                                <img src="/images/spacer.gif" width="1" height="10"><br>
+                                </td>
+                            </tr>
+                        </table>
+                        <img src="/bp/images/nav_tanbot.gif" width=144 height=11 alt="" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#cccc99">
+                        <table width="100%" cellpadding="3" cellspacing="0" border="0">
+                            <tr>
+                                <td>
+                                <div align="center"><b>Related Sites</b></div>
+                                <br>
+                                <a href="http://www.amenclinic.com" class="menu">The Amen Clinic for Behavioral Medicine</a>
+                                <br><br>
+                                <a href="http://www.mindworkspress.com" class="menu">Mindworks Press</a>
+                                </td>
+                            </tr>
+                        </table>
+                        <img src="/bp/images/nav_tanbot.gif" width=144 height=11 alt="" border="0"></div></td>
+                    </tr>
+                    <tr>
+                        <td bgcolor="#ffffff"><img src="/images/spacer.gif" width="1" height="2" border="0"></td>
+                    </tr>
+                </table>
+                </form>
+                </td>
+                <td valign="top" width="100%">
+                
+                <!-- Begin Body Section -->
+                <table width="100%" cellpadding="0" cellspacing="5" border="0" bgcolor="#ffffff">
+                    <tr>
+                        <td>
+
+
+<div align="center" class="header">IMAGES OF<br>ATTENTION DEFICIT DISORDER</div>
+<br>
+<div align="center" class="linktoabstracts"><a href="../abstracts/adl.asp">Abstracts</a></div>
+<br>
+The first evidence for the brain being understimulated was introduced with the use of more advanced electroencephalograms (EEG or brainwave studies) BY Joel Lubar from the University of Tennessee.  He demonstrated that when ADD children and teenagers performed a concentration task there was an increased amount of slow brain wave activity in their frontal lobes, instead of the usual increase in fast brain wave activity that was seen in the majority of the control group. 
+<br><br>  
+In 1990, published PET data that supported the notion of brain underactivity in the prefrontal cortex, especially in response to an intellectual challenge.  Data from my own work with brain SPECT imaging drew the same conclusions.  At rest most ADD people have normal activity in their brain. When they perform a concentration task, however, they experience decreased activity in the prefrontal cortex, rather than the expected increased activity that is seen in a normal control group.
+<br><br>
+Tied to the decreased prefrontal cortex findings are the studies that indicate that ADD is has a large genetic contribution, involving dopamine availability in the brain.   A significant amount of dopamine is produced in the basal ganglia (large, structures deep within the brain). Stimulant medications work by enhancing dopamine availability in this part of the brain. Studies have demonstrated that the basal ganglia is smaller in people with ADD. The basal ganglia have a significant number of nerve tracks that go through the limbic system to the prefrontal cortex. It appears that when there is not enough dopamine available in the basal ganglia then there is not enough 'fuel' to drive the frontal lobes when they need to activate with concentration.
+<br><br>
+Beside the genetic contribution to ADD, maternal alcohol or drug use, birth trauma, jaundice, brain infections and head trauma (sometimes even minor ones, especially to the left prefrontal cortex) can play a causative role.
+<br><br>
+<b><u>Subtypes of ADD</u></b>
+<br><br>
+It is essential to note that ADD is a developmental disorder diagnosed through clinical history over a prolonged period of time.  Brain imaging is not necessary to make the diagnosis of ADD, although it may be helpful in certain complicated cases.  Based on my brain imaging experience I have seen 5 clinical subtypes of ADD: 
+<br><br>
+<b>1. AD/HD, combined type</b> with both symptoms of inattention and hyperactivity-impulsivity.  Brain SPECT imaging typically shows decreased activity in the basal ganglia and prefrontal cortex during a concentration task.  This subtype of ADD typically responds best to psychostimulant medication.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td colspan="3" valign="top"><div align="center"><b>Rest, Concentration & Concentration with Medication</b></div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD1.jpg" class="thumbdesc"><img src="Thumbnails/ADD1.jpg" width="118" height="100" alt="" border="0"><br>undersurface view, rest</a><br>mild decrease prefrontal area</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD2.jpg" class="thumbdesc"><img src="Thumbnails/ADD2.jpg" width="119" height="100" alt="" border="0"><br>undersurface view, concentration</a><br>marked decrease prefrontal cortex<br>and left temporal lobe</div></td>
+    </tr>
+    <tr>
+        <td colspan="3" valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD3.jpg" class="thumbdesc"><img src="Thumbnails/ADD3.jpg" width="118" height="100" alt="" border="0"><br>undersurface view, w/Adderall</a><br>overall marked improved activity</div></td>
+    </tr>
+</table>
+</div>
+<br>
+<b>2. AD/HD, primarily inattentive subtype</b> with symptoms of inattention and also chronic boredom, decreased motivation, internal preoccupation and low energy.  Brain SPECT imaging typically shows decreased activity in the basal ganglia and dorsal lateral prefrontal cortex during a concentration task.  This subtype of ADD also typically responds best to psychostimulant medication.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td colspan="3" valign="top"><div align="center"><b>Before & After Treatment with Ritalin & Adderall</b></div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD4.jpg" class="thumbdesc"><img src="Thumbnails/ADD4.jpg" width="118" height="100" alt="" border="0"><br>undersurface view, NO MEDS</a><br>poor prefrontal and<br>temporal lobe activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD5.jpg" class="thumbdesc"><img src="Thumbnails/ADD5.jpg" width="118" height="100" alt="" border="0"><br>undersurface view, with Adderall</a><br>marked overall improvement</div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD6.jpg" class="thumbdesc"><img src="Thumbnails/ADD6.jpg" width="118" height="100" alt="" border="0"><br>undersurface view, NO MEDS</a><br>overall severe decreased activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD7.jpg" class="thumbdesc"><img src="Thumbnails/ADD7.jpg" width="118" height="100" alt="" border="0"><br>undersurface view, w/Ritalin</a><br>overall marked improved activity</div></td>
+    </tr>
+</table>
+</div>
+<br>
+<b>3. Overfocused ADD</b>, with symptoms of trouble shifting attention, cognitive inflexibility, difficulty with transitions, excessive worrying, and oppositional and argumentative behavior. There are often also symptoms of inattention and hyperactivity-impulsivity.  Brain SPECT imaging typically shows increased activity in the anterior cingulate gyrus and decreased prefrontal cortex activity.  This subtype typically responds best to medications that enhance both serotonin and dopamine availability in the brain, such as venlafaxine or a combination of an SSRI (such as fluoxetine or sertraline) and a psychostimulant.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD8.jpg" class="thumbdesc"><img src="Thumbnails/ADD8.jpg" width="118" height="100" alt="" border="0"><br>front on active view</a><br>increased cingulate activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD9.jpg" class="thumbdesc"><img src="Thumbnails/ADD9.jpg" width="118" height="100" alt="" border="0"><br>active top down view</a><br>increased cingulate activity</div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD10.jpg" class="thumbdesc"><img src="Thumbnails/ADD10.jpg" width="118" height="100" alt="" border="0"><br>top down active view</a><br>increased cingulate activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD11.jpg" class="thumbdesc"><img src="Thumbnails/ADD11.jpg" width="118" height="100" alt="" border="0"><br>active side view</a><br>increased cingulate activity</div></td>
+    </tr>
+</table>
+</div>
+<br>
+<b>4. Temporal lobe ADD</b>, with symptoms of inattention and/or hyperactivity-impulsivity and mood instability, aggression, mild paranoia, anxiety with little provocation, atypical headaches or abdominal pain, visual or auditory illusions, and learning problems (especially reading and auditory processing).  Brain SPECT imaging typically shows decreased or increased activity in the temporal lobes with decreased prefrontal cortex activity.  Aggression tends to be more common with left temporal lobe abnormalities.  This subtype typically responds best to anticonvulsant medications (such as gabapentin, divalproate, or carbamazepine and a psychostimulant.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD12.jpg" class="thumbdesc"><img src="Thumbnails/ADD12.jpg" width="118" height="100" alt="" border="0"><br>undersurface view</a><br>decreased left temporal lobe activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD13.jpg" class="thumbdesc"><img src="Thumbnails/ADD13.jpg" width="118" height="100" alt="" border="0"><br>underside active view</a><br>increased left temporal lobe activity </div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD14.jpg" class="thumbdesc"><img src="Thumbnails/ADD14.jpg" width="118" height="100" alt="" border="0"><br>undersurface view</a><br>marked decreased left<br>temporal lobe activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD15.jpg" class="thumbdesc"><img src="Thumbnails/ADD15.jpg" width="118" height="100" alt="" border="0"><br>undersurface view</a><br>marked decreased temporal<br>and prefrontal cortex bilaterally</div></td>
+    </tr>
+</table>
+</div>
+<br>
+<b>5. Limbic ADD</b>, with symptoms of inattention and/or hyperactivity-impulsivity and negativity, depression, sleep problems, low energy, low self-esteem, social isolation, decreased motivation and irritability. Brain SPECT imaging typically shows increased central limbic system activity and decreased prefrontal cortex activity.  This subtype typically responds best to stimulating antidepressants such as buprion or imipramine, or venlafaxine if obsessive symptoms are present.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD16.jpg" class="thumbdesc"><img src="Thumbnails/ADD16.jpg" width="118" height="100" alt="" border="0"><br>underside active view</a><br>increased limbic activity</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD17.jpg" class="thumbdesc"><img src="Thumbnails/ADD17.jpg" width="118" height="100" alt="" border="0"><br>underside active view</a><br>increased limbic activity</div></td>
+    </tr>
+    <tr>
+        <td colspan="3" valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD18.jpg" class="thumbdesc"><img src="Thumbnails/ADD18.jpg" width="118" height="100" alt="" border="0"><br>underside active view</a><br>marked increased limbic, basal ganglia and cingulate activity</div></td>
+    </tr>
+</table>
+</div>
+<br>
+<b>6. Ring of Fire ADD</b> - many of the children and teenagers who present with symptoms of ADD have the "ring of fire" pattern on SPECT.  They often do not respond to psychostimulant medication and in many cases are made worse by them.  They tend to improve with either anticonvulsant medications, like Depakote or Neurontin, or the new, novel antipsychotic medications such as Risperdal or Zyprexa.  The symptoms of this pattern tend to be severe oppositional behavior, distractibility, irritability and temper problems and mood swings.  We think it may represent an early bipolar pattern.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD23.jpg" class="thumbdesc"><img src="Thumbnails/ADD23.jpg" width="118" height="100" alt="" border="0"><br>top down active view</a><br>increased activity in the cingulate,<br>lateral parietal, frontal and temporal lobes</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD24.jpg" class="thumbdesc"><img src="Thumbnails/ADD24.jpg" width="118" height="100" alt="" border="0"><br>active front on view</a><br>increased activity in the cingulate,<br>lateral parietal, frontal and temporal lobes</div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD25.jpg" class="thumbdesc"><img src="Thumbnails/ADD25.jpg" width="118" height="100" alt="" border="0"><br>top down active view</a><br>increased activity in the cingulate,<br>lateral parietal, frontal and temporal lobes</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD26.jpg" class="thumbdesc"><img src="Thumbnails/ADD26.jpg" width="118" height="100" alt="" border="0"><br>left side active view</a><br>increased activity in the cingulate,<br>lateral parietal, frontal and temporal lobes</div></td>
+    </tr>
+</table>
+</div>
+<br>
+<b>7. Trauma Induced ADD</b>, especially to the left dorsolateral prefrontal cortex.  The symptoms come on or intensify in the year after a head injury.  The ADD symptoms may respond to psychostimulant medication.  If irritability results secondary to psychostimulant medication the addition of a low dose anticonvulsant may be helpful.
+<br><br>
+<div align="center">
+<table cellpadding="5" cellspacing="0" border="0">
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD19.jpg" class="thumbdesc"><img src="Thumbnails/ADD19.jpg" width="118" height="100" alt="" border="0"><br>top down surface view</a><br>marked decreased left front<br>prefrontal and occipital lobes</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD20.jpg" class="thumbdesc"><img src="Thumbnails/ADD20.jpg" width="118" height="100" alt="" border="0"><br>side surface view</a><br>marked decreased left prefrontal<br>and anterior temporal region</div></td>
+    </tr>
+    <tr>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD21.jpg" class="thumbdesc"><img src="Thumbnails/ADD21.jpg" width="118" height="100" alt="" border="0"><br>side surface view</a><br>decreased left prefrontal cortex</div></td>
+        <td valign="top"><img src="../images/spacer.gif" width="20" height="1"></td>
+        <td valign="top"><div align="center" class="thumbdesc"><a href="viewlargeimage.asp?img=ADD22.jpg" class="thumbdesc"><img src="Thumbnails/ADD22.jpg" width="118" height="100" alt="" border="0"><br>side surface view</a><br>decreased left prefrontal and<br>temporal lobe activity</div></td>
+    </tr>
+</table>
+</div>
+<br>
+
+                        </td>
+                    </tr>
+                </table>
+                <!-- End Body Section -->
+                
+                </td>
+                <td bgcolor="#cccc99"><img src="/images/spacer.gif" width="50" height="1"></td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="3" bgcolor="#000066">
+        <table width="100%" cellpadding="0" cellspacing="5" border="0">
+            <tr>
+                <td><div class="copyright">&copy; BrainPlace.com Presented by The Amen Clinic For Behavioral Medicine</div></td>
+                <td align="right"><a href="#top" class="footertop">Top</a></td>
+            </tr>
+        </table>
+        </td>
+    </tr>
+</table>
+
+
+</body>
+</html>

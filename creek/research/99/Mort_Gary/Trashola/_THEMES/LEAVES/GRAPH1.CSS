@@ -1,0 +1,97 @@
+<style>
+.mstheme
+{
+	nav-banner-image: url(leabane.gif);
+	separator-image: url(learulee.gif);
+	list-image-1: url(leabul1e.gif);
+	list-image-2: url(leabul2e.gif);
+	list-image-3: url(leabul3e.gif);
+
+
+	navbutton-horiz-normal: url(leahorzbtnne.gif);
+	navbutton-horiz-hovered: url(leahorzbtnhe.gif);
+	navbutton-horiz-pushed: url(leahorzbtnse.gif);
+
+	navbutton-vert-normal: url(leavertbtnne.gif);
+	navbutton-vert-pushed: url(leavertbtnse.gif);
+	navbutton-vert-hovered: url(leavertbtnhe.gif);
+
+	navbutton-home-normal: url(leahomebtnne.gif);
+	navbutton-home-hovered: url(leahomebtnhe.gif);
+	navbutton-home-pushed: url(leahomebtnse.gif);
+
+	navbutton-next-normal: url(leanextbtnne.gif);
+	navbutton-next-hovered: url(leanextbtnhe.gif);
+	navbutton-next-pushed: url(leanextbtnse.gif);
+
+	navbutton-prev-normal: url(leaprevbtnne.gif);
+	navbutton-prev-hovered: url(leaprevbtnhe.gif);
+	navbutton-prev-pushed: url(leaprevbtnse.gif);
+
+	navbutton-up-normal: url(leaupbtnne.gif);
+	navbutton-up-hovered: url(leaupbtnhe.gif);
+	navbutton-up-pushed: url(leaupbtnse.gif);
+
+}
+
+.mstheme-bannertxt
+{
+	font-family: times new roman;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-vert-navtxt
+{
+	font-family: Times New Roman, Times;
+	font-weight: bold;
+	color: rgb(51,51,51);
+	text-align: right;
+	vertical-align: middle;
+}
+
+.mstheme-navtxthome
+{
+	font-family: Times New Roman, Times;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtnext
+{
+	font-family: Times New Roman, Times;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtprev
+{
+	font-family: Times New Roman, Times;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+
+.mstheme-navtxtup
+{
+	font-family: Times New Roman, Times;
+
+	color: rgb(255,255,255);
+	text-align: center;
+	vertical-align: middle;
+}
+</style>.
